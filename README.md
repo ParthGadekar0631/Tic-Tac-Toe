@@ -57,5 +57,3 @@ Feel free to contribute to the development of this Tic-Tac-Toe game. If you find
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-You can customize this README by adding specific details about your project, such as installation instructions, additional features, or any other relevant information.
